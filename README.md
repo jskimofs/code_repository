@@ -1,2 +1,2 @@
-# playground
-문자 그대로 자유롭게 분석하면서 노는 공간
+# machine_learning_codes
+각종 모델링 코드들 저장소
